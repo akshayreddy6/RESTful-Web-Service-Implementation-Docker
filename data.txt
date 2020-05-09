@@ -1,0 +1,16 @@
+{
+            'id': '1',
+            'name': 'customer 1',
+            'friends': ['2', '3'],
+        },
+        {
+            'id': '2',
+            'name': 'customer 2',
+            'friends': ['1'],
+        },
+        {
+            'id': '3',
+            'name': 'customer 3',
+            'friends': ['1'],
+        }
+    ]
